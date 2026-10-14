@@ -1,6 +1,6 @@
 # Agent Guidelines for FTA Development
 
-This document provides guidelines for AI agents (like GitHub Copilot) working on the FTA (Fast TypeScript Analyzer) codebase.
+This document provides guidelines for AI agents working on the FTA (Fast TypeScript Analyzer) codebase.
 
 ## Rust Code Formatting - CRITICAL
 
